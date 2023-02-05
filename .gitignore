@@ -37,4 +37,4 @@ octave-workspace
 *.cov
 
 # secrets
-.gitsecret
+.gitsecrets
